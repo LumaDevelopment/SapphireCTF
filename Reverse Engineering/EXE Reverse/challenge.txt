@@ -1,0 +1,1 @@
+I put the flag in this EXE attached to the challenge, but I misconfigured the checks and now the flag won’t print! Is there any way you can reverse engineer this EXE to get the flag?

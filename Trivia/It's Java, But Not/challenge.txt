@@ -1,0 +1,1 @@
+It’s like Java, but not! It’s primarily a web scripting language. All answers are wrapped with shc{})

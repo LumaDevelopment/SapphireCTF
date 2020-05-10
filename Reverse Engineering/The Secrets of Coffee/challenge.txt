@@ -1,0 +1,1 @@
+I made a program that verifies a secret, then decodes it. The secret is the encrypted flag! And to make sure it could work offline, I stored the secret in the program! That's a great idea!

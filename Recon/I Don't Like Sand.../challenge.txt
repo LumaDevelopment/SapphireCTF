@@ -1,0 +1,3 @@
+Find the name of the Unknown Queen. Among the sands, she rules unseen. Buried under the sands of time. From the depths of Egypt she cries.
+
+(If the name of the queen was Khen VII, the flag would be shc{Khen_VII})

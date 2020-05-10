@@ -1,0 +1,21 @@
+For the Bash challenges, you're going to need /Bash/sapphirectf_vm.ova. This VM contains challenges Bash 1-9. FTP & SSH are installed on their default ports on this device, as well as VirtualBox Guest Additions. This way you can achieve file transfer. FTP Username & Password is:
+
+FTP Username: upload
+FTP Password: access_ftp
+
+The user account to access the FTP folder is:
+
+FTP Folder Username: ctf_ftp
+FTP Folder Password: access_ftp
+
+The username of each challenge is ctf_bash_<Bash challenge number>. Your first challenge has these creds:
+
+Username: ctf_bash_1
+Password: lets_go
+
+Every challenge’s account’s password is the previous challenge’s flag. If this challenge’s flag was shc{dogs} then the next challenges creds would be:
+
+Username: ctf_bash_2
+Password: shc{dogs}
+
+Each challenge is intended to go in sequential order but this is not required. The vm_admin account is not apart of the challenges.

@@ -1,0 +1,1 @@
+I encrypted the flag with a cipher that uses a password. The password is “shc”. Here's the encrypted flag: koe{n1n3p3j3_hnk0_3g}

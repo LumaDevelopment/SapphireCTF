@@ -1,0 +1,1 @@
+Flag format is shc{}. If the flag seems like it repeated a letter twice, that’s intentional, it was supposed to stop bruteforce/guessing in the original version. See image.jpg

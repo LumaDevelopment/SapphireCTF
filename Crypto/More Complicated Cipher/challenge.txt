@@ -1,0 +1,5 @@
+Unscramble this cipher to get the flag:
+
+NUZJ34F4ZW3 P1CM3J KW4Y 15
+
+5mp{dn1cd1nc_m4735_unhz3j5}

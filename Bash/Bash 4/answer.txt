@@ -1,0 +1,1 @@
+shc{strings_is_c001}

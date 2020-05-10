@@ -1,0 +1,1 @@
+Want to automatically solve a cipher? Use a tool made by old Ed. (The format of the flag is the URL (e.g. wikipedia.com) of the tool surrounded by shc{})

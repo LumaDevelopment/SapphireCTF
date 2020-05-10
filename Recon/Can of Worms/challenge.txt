@@ -1,0 +1,1 @@
+The creator of the first over-the-internet worm violated the U.S.C. 18. What was the specific code he broke? (If it was 18 U.S.C.§ 2, then the flag would be shc{2})
